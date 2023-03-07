@@ -27,3 +27,5 @@ hello yu hello git!
 
 hello yu hello git! master test
 11111
+
+000000
